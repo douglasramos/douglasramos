@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @douglasramos. I'm a Software Engineer with Bachelor of Electrical & Computer Engineering by Escola Politécnica da Universidade de São Paulo (POLI-USP)
+- 💎 I have 3+ years of experience developing software solutions and leading high-impact projects.
+- 👍 I have expertise in Clojure, NodeJS, Python, C#/.NET, clean code and microservices. 
+- 🤝 I Really like to work with people. Part of my job is to focus on team building and finding ways to keep my team healthy and productive
+- 👀 I’m interested in all things related to technology, from hardware to software; from how to do clean to how technology can drive businesses. But at the moment, I'm focusing on how to build and scale engineering teams 
+- 🌱 I’m currently learning Go language. It has been a fun ride
+- 💞️ I’m always learning new things and looking for new challenges and problems to solve. So if you have some idea and need collaboration, please reach out.
+- 💗 I love disruptive businesses and the startup ecosystem. Also I love movies!
+- 📫 You can reach me on [linkedin](https://www.linkedin.com/in/dcramos/)
