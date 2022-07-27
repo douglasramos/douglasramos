@@ -1,5 +1,5 @@
 ### Hi, I’m @douglasramos 👋
-I'm a Software Engineer with Bachelor of Electrical & Computer Engineering by Escola Politécnica da Universidade de São Paulo (POLI-USP)
+I'm a Senior Software Engineer with Bachelor of Electrical & Computer Engineering by Escola Politécnica da Universidade de São Paulo (POLI-USP)
 
 <div align="center">
   <a href="https://github.com/douglasramos">
@@ -9,7 +9,7 @@ I'm a Software Engineer with Bachelor of Electrical & Computer Engineering by Es
 </div>
 
 <ul>
-  <li>💎 I have 4+ years of experience developing software solutions and leading high-impact projects.</li>
+  <li>💎 I have 5+ years of experience developing software solutions and leading high-impact projects.</li>
   <li>👍 I have expertise in Clojure, NodeJS, Python, C#/.NET, clean code and microservices. </li>
   <li>🤝 I Really like to work with people. Part of my job is to focus on team building and finding ways to keep my team healthy and productive</li>
   <li>👀 I’m interested in all things related to technology, from hardware to software; from how to do clean to how technology can drive businesses. But at the moment, I'm focusing on how to build and scale engineering teams </li>
